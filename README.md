@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Cheima!<br><br>🌟 Cybersecurity Engineering Student sharing about my journey and learnings in tech<br/><br>📖 Studied Cyber Security & Cryptography at EPI DIGITAL SCHOOL (EPI-DS), Tunisia<br/><br><br>🎥 Making videos about  Cyber Security , Cryptography and tech on [YouTube](https://www.youtube.com/channel/UCVnPw3YmgN0PoHGCC6ewMVw)<br/><br>📊 Currently learning about data analytics and CyberSecurity 🔐!<br/><br>🔭 I’m currently working on Python Projects 💼 and  Internships 🚀 <br/><br> **📫 How to reach me**  **CHEIMA.TOUIR@EPISOUSSE.COM.TN**<br><br> **💬 Ask me about ❓** **anything...**
+### Hi, I'm Cheima!<br><br>🌟 Cybersecurity Engineering Student sharing about my journey and learnings in tech<br/><br>📖 Studied Cyber Security & Cryptography at EPI DIGITAL SCHOOL (EPI-DS), Tunisia<br/><br>🎥 Making videos about  Cyber Security , Cryptography and tech on [YouTube](https://www.youtube.com/channel/UCVnPw3YmgN0PoHGCC6ewMVw)<br/><br>📊 Currently learning about data analytics and CyberSecurity 🔐!<br/><br>🔭 I’m currently working on Python Projects 💼 and  Internships 🚀 <br/><br> **📫 How to reach me**  **CHEIMA.TOUIR@EPISOUSSE.COM.TN**<br><br> **💬 Ask me about ❓** **anything...**
 
 
 ## 🌐 Socials:
